@@ -1,0 +1,9 @@
+c:\users\tiago.sousa\documents\visual studio 2015\Projects\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe.config
+c:\users\tiago.sousa\documents\visual studio 2015\Projects\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe
+c:\users\tiago.sousa\documents\visual studio 2015\Projects\Jokenpo\Jokenpo\bin\Debug\Jokenpo.pdb
+c:\users\tiago.sousa\documents\visual studio 2015\Projects\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csprojResolveAssemblyReference.cache
+c:\users\tiago.sousa\documents\visual studio 2015\Projects\Jokenpo\Jokenpo\obj\Debug\Jokenpo.Form1.resources
+c:\users\tiago.sousa\documents\visual studio 2015\Projects\Jokenpo\Jokenpo\obj\Debug\Jokenpo.Properties.Resources.resources
+c:\users\tiago.sousa\documents\visual studio 2015\Projects\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csproj.GenerateResource.Cache
+c:\users\tiago.sousa\documents\visual studio 2015\Projects\Jokenpo\Jokenpo\obj\Debug\Jokenpo.exe
+c:\users\tiago.sousa\documents\visual studio 2015\Projects\Jokenpo\Jokenpo\obj\Debug\Jokenpo.pdb
